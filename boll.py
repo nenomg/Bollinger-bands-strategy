@@ -34,8 +34,8 @@ def bollingerBands(data, m, n):
 #Plot the bollinger bands and the price
 def plotBoll(data, b_u, b_d):
     plt.ylabel('Price')
-    plt.plot(np.arange(0,200), b_d[0:200], label="up")
-    plt.plot(np.arange(0,200), b_u[0:200], label="down")
+    plt.plot(np.arange(0,200), b_d[0:200], label="down")
+    plt.plot(np.arange(0,200), b_u[0:200], label="up")
     plt.plot(data["Close"][0:200], label="price")
     plt.legend()
     plt.title('Bollinger bands for first 200')
