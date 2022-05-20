@@ -2,7 +2,7 @@
 This repository contains a google collaboratory that describes how the strategy was built and the profits of using it in this interval for Bitcoin cryptocurrency. To learn more about how the algorithm works access the wiki of the repository.
 
 ## How to use the script
-To execute this script just download the file from<a href="https://github.com/nenomg/Bollinger-bands-strategy/releases/tag/1.0">Bollinger-bands-strategy.zip</a> and install the next libraries:
+To execute this script just download the file from <a href="https://github.com/nenomg/Bollinger-bands-strategy/releases/tag/1.0">Bollinger-bands-strategy.zip</a> and install the next libraries:
 
 Pandas:
 
