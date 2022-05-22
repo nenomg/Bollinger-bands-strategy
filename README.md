@@ -24,7 +24,7 @@ pip install matplotlib
 
 To execute the script place the boll.py file and the dataset in the same folder, then run the script:
 ```bash
-./boll.py
+python boll.py
 ```
 
 For more information about how it works access the <a href="https://github.com/nenomg/Bollinger-bands-strategy/wiki">Wiki</a>.
